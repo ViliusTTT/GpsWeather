@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fbb3885c40e431cd2b0dc69c0cab2bf6d5da7b43">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.8.0_8c7734b63f0cdfa16b7411993fdb4963a17b0754\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="055eed08c9cff50cac0db69c74c4d9ff7aef3d84">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.8.0_054ba572aa713bd04704561f1f23eec965e903ea\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_26c004dc5928bd832d761e9dfcfa53169554db97\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a1ed98e01bd58976d80c062fd0ea2968a1ff68a1">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.8.0_39719c13dff4aa91564cf5dc40a071d2ae764fb3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9f6d236bac26d02b410e4ee186ba517ace5ee661">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.8.0_b4dfdaad4783afc5d69057c026982f262ead359a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_facbb8c07e34d24a3e63ccef4d59b4a9e3d29530\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="606a3bb0fab84c8be8fccb2b1d3f8f1b81482196">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_108d53de1464c918f27bf88c6e44b36bc3e0058f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5f47ede9561595584dca71104baa0fecb36dda87">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.8.0_f93ef2add49adb0faf0cd3671631f051bdbaaace\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="190a642ba16d1421296a4d794606279b80039c59">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.8.0_94bd6adbe17c634d0380568612f0b7417953a5ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_927d2fc43b5d0d030b6df67e7952d4f5e361f418\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_aa486601745992410bd8905da62a2751ffd1bfb2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="04bbbddf868aa02dd33f9e90d8f5d908c360f638">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.8.0_28f4ea805eb408b9256a0edb708e1b9fbbb31058\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_1187b8f23baafaca3509c71b8d70d8323de5c9d1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7fd91ec2730fdaa82906aad32a3f3d3e574bae56">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.8.0_f004e825340b68770ee718180e9442e5fcd77b1c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a2537b11ae24b42172d34e2a613fc0b903c56158">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-9.8.0_0b4b8f7f345a3c0c14a519fcf6cb820274e13423\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="bf2e1838e4428616c1aa26edf43de72b5b99bf84">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.8.0_41657c7fda324486b418efd6e91c37f4b588379e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f2d240dd085626f03f759c41d628a0c8b63e491f">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.8.0_b6f3359225ee590c763e8d3d03b7cc5f6cac5d9d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e9b2cfdfd59b03643f1e240668275378b96615a8">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.8.0_5bd069a0ce57dcd15696d9ae5b65e1021046cb64\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="679251204de40ace98776a6f4e3a649c27e3d89f">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.8.0_c8114d3b69a7eac1cf046830cb7dc09531240827\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_0ef3509f461ee8b60a164d28f32485ac055d63c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_1fb98519bb44f8db5a3b935478ac5876a2d0387c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9ff04cc3470178a44512624036751a803418c2ca">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.8.0_2c7a109f7e02137f6f51d32167f506b2ca813703\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_231914088844f7f3d55fdeb94e381d30310cd88c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="363a20f1d25336e827dd24020f2ecdc42d62638f">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.8.0_22fb5085742bffe906bddb2c1d6e8d8503d5a957\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="910c013c511f752c4bbe24c5f492f669f4a3ccc0">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.8.0_9de50524fc4fc09567a4d392b63b73892f28ea73\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e3234cd25e23069abd48ecd2117bc0e8011bf45a">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.8.0_04d77645b0b7827cb06a06c0b1dda01f5d8d17a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_d1ee17ea9379edc00340b3484879b5c1024c77b9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="20a3c4e355150c15c13dd58045d43ad0c717d916">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.8.0_5bdbb35d425c566d9ab7622729004d21b8807b19\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="7e92aadd0697922316d1395c1887a23aebec640a">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.8.0_4dd45e200afa257484e53cc033613811087cc647\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0b53c4b90654b67ee3892a8e2e7b819c083ab7a6">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.8.0_d4dabdb5e118039a16ef516a5f0e7df5ef39c337\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_e3bff991e640322bcb86e904015078249190f64c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="74ac7cbcf0de4a88e59612dc3a9e3f9e71acb4ca">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.8.0_c0feff8e80a51f0a4b2935470ebdaaa34a33aff1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_abaa61a7de23a4412c7e765719ba7aa67d9b9760\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="cef85cfc7df40e29fbea58844dd4c1e7d0b15542">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.8.0_f3e790a2eebc0602ee5652505d0e5a11b62378f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_b02af87a4d781b7b04df1ab756f0be0b17c5f955\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="85299bf1924dde0200109a58033c5ef84ecb6991">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.8.0_f0ff3cef363c2e52fa9bb26f6bb96f5f18b39a62\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3daa7a9c9009fd386872a84c177a76979bdcafd6">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.8.0_71e7dbd02380e954db0760bc4777fee3eb64c4d6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="03df48d3713661d66ad024b1e406259a4c26fcac">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.8.0_1efdf0a333ac1755cebec60d1bef7862081fd7a2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_5c49b709e67d2a03b7c6dff4f46b348ecbfbd6c6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a972970c8beddb69c198f61f3fc55f0606a7dfe3">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.8.0_2a11fa743fc4b7df4c4b6e64f2cff2d7ed5272cd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_a94d154e5ecd23189f0e5d4144f09a10841aebd8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="289cad663c288ce965463cb9ece8b35cc7de0fac">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.8.0_331bff4f5acff0918785ed41d68f6827088a204f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_23bbf30e9cb6dacb8a1fb1a367a5accb252662a7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="50e35ae101a679c4c8ef3dda075b1df9d5d947d9">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.8.0_a33f5b7792f3cc717b7df196fb65a7a96223a759\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_d5f64681e50496545ea534cf73dad87e9048ae41\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="266570862e5792ef3c51143a8b8593cf54fac68d">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.8.0_65db2845f3fdfc71d18b7772acef46685b0b8b1b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ee5304fd374e0b4ebf6b42d4037fbfb2c5336511">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.8.0_55b768524911704a273e189aab1a2adb0466bd89\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b4671be3d1288bf4e5f527cd33e42909fbe4ecc6">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.8.0_d95adfc686fb8327461527815b7cccdb86c90267\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="2d3035050a075484cbf2e33f1ce1f779bae4d451">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.8.0_6d9171aba091fecc5467d6793dc9d759da03154c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a7a04d6b7c01e569a285fa627cf64f5b05295906">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.8.0_b01791eeb8fbf011f60f541eee108ede19b4a404\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_659e0f67d0d068c779c658f2cf32c6e412303b8c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_a83f481b98148e036d55cd41c2e5ff887a4de32c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_928f8b5446172a1a029b42190822fb3ff8fab8f9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9dae58326f6f6a515022468cce56dd04ec3b9fdb">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.8.0_6a878d13aba563bb11316355364c5e0754c620a4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="a30aea7df545072ad3c06f56b2efc13e67222140">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.8.0_b1e0ce0d7107e63a65eebd9f059a34991d241fb7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_c64c33069c7ee26b76c497ad093ed8f9552ddad1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="0b8e087da59c0b062c33f49a335e59f907086da2">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.8.0_e8731ba6d17b7bd32aa61155e80733748b04b761\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3f8f779a22cbb4c4d0759467a4f1011bb5252970">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.8.0_2f79ba159263c0ca494be2248bb63697a88489f4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="15e59454416c6341bd3ed2533b585cd340682dd1">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.8.0_8d664cd6592e6cab309632846dbc2119bf669312\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="00d358528c5a8731a6e19bca910cbb3fd755ee31">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-9.8.0_7716d42a74bc2f2da53e1f9c4a71eb4ce3df89c9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="122ec9237acd8a57d974b9d529987f1ee6ca5aea">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.8.0_9a1b7a800866eac79c3af1d04f5d1a8afbf2d4ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="16afe57c1d7f8165d107c7806ce7b0c71de87159">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.8.0_86883ff369ae20bce3de36fd2d85ed00f6b3553c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6b6f292b8b951dcf2ecf2b20853e3eabc7d65c48">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.8.0_3cce50e0f67884b78953baf8adeb2527d8edae3b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ec9104b53aee77dfcfd2fe1c4add23ff7c4df55f">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.8.0_0d5601c562fc8e04e1be25b03ebdbede8fd72691\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c61641e333fa88da21758bab8cc28ee16604b05f">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.8.0_84b5b53d78ac3b0515aac1a2bd8a0ab7dc84df4b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_9b6c70ccdb1423fc2a4549a9f3d32e98706385c8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e56f31b23ddb067f95f01255295167db7c798612">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.8.0_e061b0d7ed0dcacfdfb36ead273d3976a0d3967e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_8d69c532a67aa222c5e2adb1de9d4e51afc1569f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c81df6bd515398ebe45089b0b16c55752a131f6a">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.8.0_893cac92996f46e8aee5ae80315843688ce266bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de1969ac751faab2f6bbebac21a75ea35d573a43">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b52fbcf8e13fa2c1aba6af43a0a9ddca2eb31549\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5ffe8867f51cfc726e9fb21db1e5b6962ebf25a0">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.8.0_0ab6b67a48b8408176415dff06bd8c70edbb41b2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ca851be26ff89f5b32cc222cee98139fb3fac830">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.8.0_4dc1d62f330977ed0338535857875e8f75895b06\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.8.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="4438b1a7848a7c571122ba618aa1304514aabee6">
+        <dex dex="C:\Users\Vilius\Desktop\PasiklydauApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.8.0_49c27dc67ca0adb8a1969938512f1920e36af31a\classes.dex" />
+    </item>
+
+</items>
