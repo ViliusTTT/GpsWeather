@@ -30,4 +30,4 @@ Enter a phone number and press SEND, the successful dispatch will be informed in
 Upon returning to the map screen, we can access location history, press History Location button, then get into history screen, current location information is automatically saved.
 To delete records, press DELETE RECORDS. 
 Return to the map screen and click on the "Weather Now" then  get into the weather forecast window and get information about the current location‘s weather forecast.
-To close the program, go to the main menu and press back button.
+To close the program, go to th e main menu and press back button.
